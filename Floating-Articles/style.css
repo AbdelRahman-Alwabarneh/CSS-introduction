@@ -1,0 +1,68 @@
+.div-floating-articles {
+  /* #fffff1 */
+  background-color: #fffff1;
+  width: 490px;
+  height: 500px;
+  border-right: 3px solid black;
+}
+h4 {
+  margin-left: 10px;
+  padding-top: 20px;
+}
+.div-text-1 {
+  background-color: #eaeaed;
+  width: 150px;
+  height: 125px;
+  overflow: hidden;
+  margin-left: 10px;
+  float: inline-start;
+}
+.div-text-2 {
+  background-color: #eaeaed;
+  width: 150px;
+  height: 125px;
+  overflow: hidden;
+  margin-left: 10px;
+  float: inline-start;
+}
+
+.div-text-3 {
+  background-color: #eaeaed;
+  width: 150px;
+  height: 125px;
+  overflow: hidden;
+  margin-left: 10px;
+  margin-bottom: 20px;
+  float: inline-start;
+}
+
+.div-text-4 {
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  height: 70px;
+  margin-left: 10px;
+  margin-right: 2px;
+  float: inline-end;
+  overflow: auto;
+  padding-bottom: 3px;
+  margin-bottom: 15px;
+}
+
+.div-text-5 {
+  background-color: #eaeaed;
+  width: 150px;
+  height: 125px;
+  overflow: hidden;
+  margin-left: 10px;
+  margin-bottom: 20px;
+  float: inline-start;
+}
+.div-text-6 {
+  background-color: #eaeaed;
+  width: 150px;
+  height: 125px;
+  overflow: hidden;
+  margin-left: 10px;
+  margin-bottom: 20px;
+  float: inline-start;
+}
