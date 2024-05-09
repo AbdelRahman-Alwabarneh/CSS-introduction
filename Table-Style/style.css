@@ -1,0 +1,8 @@
+.div-table td {
+  border: 2px solid black;
+  border-radius: 5px;
+  box-shadow: 2px 2px 2px 0px grey;
+  display: inline-block;
+  margin: 3px;
+  padding: 3px;
+}
