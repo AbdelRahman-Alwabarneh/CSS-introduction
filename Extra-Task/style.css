@@ -1,0 +1,50 @@
+.div-background {
+  background-color: #faf8f9;
+  width: 188px;
+  height: 145px;
+  padding-left: 10px;
+  padding-top: 8px;
+}
+
+div div div {
+  font-family: sans-serif;
+  background-color: #e7e7e7;
+  text-align: center;
+  width: 30px;
+  height: 24px;
+  padding-top: 6px;
+  border-radius: 0.3px;
+  box-shadow: 0px 0px 2px 1px #dbdbdc;
+  color: #232e7f;
+  margin-bottom: 7px;
+}
+.div-box-1 {
+  float: inline-start;
+}
+
+.div-box-25,
+.div-box-23,
+.div-box-21 {
+  float: inline-start;
+}
+
+.div-box-26,
+.div-box-24,
+.div-box-22 {
+  margin-left: 37px;
+}
+
+.div-box-2 {
+  margin-left: 110px;
+}
+
+.div-box-47,
+.div-box-45,
+.div-box-43 {
+  float: inline-start;
+}
+.div-box-48,
+.div-box-46,
+.div-box-44 {
+  margin-left: 37px;
+}
